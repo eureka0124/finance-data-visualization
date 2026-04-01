@@ -1,8 +1,4 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": ".next",
-  "env": {
-    "OPENDART_API_KEY": "@opendart_api_key",
-    "GEMINI_API_KEY": "@gemini_api_key"
-  }
+  "outputDirectory": ".next"
 }
